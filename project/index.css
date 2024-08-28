@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+a:hover{
+    color: rgb(27, 228, 228);
+}
+
+.MP{
+    font-size: 30px;
+}
+
+li{
+    color: red;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+}
+
+.bar{
+    background-color: red;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;   
+}
+
+.bar1{   
+    color: black;
+    padding: 20px;
+}
+
+p{
+    background-color: red;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+button{
+    font-size: 15px;
+    font-style: italic;
+    border-radius:10px ;
+    background-color: red;
+    float: right;
+}
+
+button:hover{
+    color: rgb(27, 228, 228);
+}

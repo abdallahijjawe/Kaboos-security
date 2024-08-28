@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 30px;
+}
+
+a:hover{
+    color: azure;
+}
+
+li{
+    color: aliceblue;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
